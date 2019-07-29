@@ -1,0 +1,10 @@
+main: me.frostedtimmy.yisusclasses.YisusClasses
+name: YisusClasses
+version: 1.0.4
+description: Custom created class plugin for yisus.net.
+author: FrostedTimmy
+
+commands:
+ class:
+  description: Pick a class with the class command.
+  usage: /<command> (class)

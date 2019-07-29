@@ -1,0 +1,28 @@
+# Plugin "YisusClasses" developed by Timophey
+# The creative ideas created in this plugin were developed by the RuneTerra team.
+# Github: https://github.com/tlm920
+# All code credit was created by Timophey McGrath
+# ANY REPRODUCTION CAN RESULT INTO A FINE UP TO 10,000$
+
+# Database to use to store the player's
+# Class and uuid
+# Very CaSe SeNsItIve
+host: 167.86.111.149
+port: 3306
+database: s7_Timmy
+username: u7_jP8GrQSlHI
+password: ef2niyUHSNVCHMgQptppihUN
+table: player_data
+
+# Prefix to use for in game messages
+# Use minecraft's color codes: https://static.planetminecraft.com/files/resource_media/screenshot/1807/example2-1518839184_lrg.png
+prefix: '&f[&2&lR&5&lT&f]&r'
+
+# Messages to tell the player when they select a class
+# You can also use minecraft's formatting codes
+tank: ''
+marksman: ''
+assassin: ''
+enchanter: ''
+bruiser: ''
+

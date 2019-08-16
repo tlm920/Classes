@@ -9,9 +9,9 @@
 # Very CaSe SeNsItIve
 host: 167.86.111.149
 port: 3306
-database: s7_Timmy
-username: u7_jP8GrQSlHI
-password: ef2niyUHSNVCHMgQptppihUN
+database: hidden
+username: hidden
+password: hidden
 table: player_data
 
 # Prefix to use for in game messages
